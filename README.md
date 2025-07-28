@@ -6,21 +6,21 @@ A complete job board web application built with vanilla HTML, CSS, JavaScript, P
 
 ![Alt text](image%202.jpg)
 
-![Alt text](image 3.jpg)
+![Alt text](image%203.jpg)
 
-![Alt text](image 4.jpg)
+![Alt text](image%204.jpg)
 
-![Alt text](image 5.jpg)
+![Alt text](image%205.jpg)
 
-![Alt text](image 6.jpg)
+![Alt text](image%206.jpg)
 
-![Alt text](image 7.jpg)
+![Alt text](image%207.jpg)
 
-![Alt text](image 8.jpg)
+![Alt text](image%208.jpg)
 
-![Alt text](image 9.jpg)
+![Alt text](image%209.jpg)
 
-![Alt text](image 10.jpg)
+![Alt text](image%2010.jpg)
 
 \#\# Features
 
