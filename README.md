@@ -2,25 +2,25 @@
 
 A complete job board web application built with vanilla HTML, CSS, JavaScript, PHP, and MySQL. This platform allows job seekers to search and apply for jobs, while employers can post jobs and manage applications.
 
-![Alt text](image 1.png)
+![Alt text](image%201.jpg)
 
-![Alt text](image 2.png)
+![Alt text](image%202.jpg)
 
-![Alt text](image 3.png)
+![Alt text](image 3.jpg)
 
-![Alt text](image 4.png)
+![Alt text](image 4.jpg)
 
-![Alt text](image 5.png)
+![Alt text](image 5.jpg)
 
-![Alt text](image 6.png)
+![Alt text](image 6.jpg)
 
-![Alt text](image 7.png)
+![Alt text](image 7.jpg)
 
-![Alt text](image 8.png)
+![Alt text](image 8.jpg)
 
-![Alt text](image 9.png)
+![Alt text](image 9.jpg)
 
-![Alt text](image 10.png)
+![Alt text](image 10.jpg)
 
 \#\# Features
 
